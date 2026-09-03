@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-fastapi-apis",
+      "title": "Testing a FastAPI Task API",
+      "description": "Use pytest and FastAPI TestClient to verify task API responses and error handling.",
+      "path": "assignments/testing-fastapi-apis",
+      "dueDate": "2026-09-10",
+      "attachments": [
+        {
+          "name": "Task API",
+          "file": "task_api.py",
+          "type": "python"
+        },
+        {
+          "name": "Test Starter Code",
+          "file": "test_task_api.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
